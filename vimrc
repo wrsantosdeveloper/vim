@@ -30,3 +30,6 @@ set incsearch
 
 " Destaque nos resultados
 set hlsearch
+
+" Inserindo comentário
+" Continuando Comentário
